@@ -131,6 +131,7 @@ body {
   margin-left: auto;
   margin-right: auto;
 	z-index: 3;
+  box-shadow: 0 0 35px #243b63;
 }
 h1 {
 	position: sticky;
