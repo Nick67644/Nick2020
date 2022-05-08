@@ -44,11 +44,11 @@ body {
 }
 
 .csharp {
-		width: 100;
+		width: 75;
     height: 28;
 		z-index: 3;
 		padding-top: 10px;
-		padding-left: 750px;
+		padding-left: 765px;
 }
 .sass {
 		width: 80;
